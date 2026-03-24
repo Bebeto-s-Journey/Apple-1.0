@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: b84aa8030d23c9b4aaae7dbb242f535b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1500457959871310792
+    second: Fichier 71_0
+  - first:
+      213: -2939463726938118885
+    second: Fichier 71_1
+  - first:
+      213: 1232423879787100492
+    second: Fichier 71_2
+  - first:
+      213: 5535024471246788493
+    second: Fichier 71_3
+  - first:
+      213: 1347978047191717541
+    second: Fichier 71_4
+  - first:
+      213: 8229291710596616856
+    second: Fichier 71_5
+  - first:
+      213: 4143674017596908043
+    second: Fichier 71_6
+  - first:
+      213: -6921583709531788743
+    second: Fichier 71_7
+  - first:
+      213: 1885886113429588295
+    second: Fichier 71_8
+  - first:
+      213: 2090920113795171872
+    second: Fichier 71_9
+  - first:
+      213: 6617000458203154078
+    second: Fichier 71_10
+  - first:
+      213: 956939423564903099
+    second: Fichier 71_11
+  - first:
+      213: -4580131170606934978
+    second: Fichier 71_12
+  - first:
+      213: 7649167794837363590
+    second: Fichier 71_13
+  - first:
+      213: 5212041741804211268
+    second: Fichier 71_14
+  - first:
+      213: -7050521043286276739
+    second: Fichier 71_15
+  - first:
+      213: 2640793215264688139
+    second: Fichier 71_16
+  - first:
+      213: -6636108413065711204
+    second: Fichier 71_17
+  - first:
+      213: 6032257707629200000
+    second: Fichier 71_18
+  - first:
+      213: 4531924797850409540
+    second: Fichier 71_19
+  - first:
+      213: 1833500682629672586
+    second: Fichier 71_20
+  - first:
+      213: 6702828987158905315
+    second: Fichier 71_21
+  - first:
+      213: 7220643772633939143
+    second: Fichier 71_22
+  - first:
+      213: 8389172610206422349
+    second: Fichier 71_23
+  - first:
+      213: 7865689699435494427
+    second: Fichier 71_24
+  - first:
+      213: 7300731061113126987
+    second: Fichier 71_25
+  - first:
+      213: 2945708172775834105
+    second: Fichier 71_26
+  - first:
+      213: -3737967194781656289
+    second: Fichier 71_27
+  - first:
+      213: 7982958547298518775
+    second: Fichier 71_28
+  - first:
+      213: 1090626131309350739
+    second: Fichier 71_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fichier 71_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 245
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138f6d1082901bb488145505537eb823
+      internalID: 1500457959871310792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5da2990502002ba4e836de9df517b0f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fichier 71_0: 1500457959871310792
+      Fichier 71_1: -2939463726938118885
+      Fichier 71_10: 6617000458203154078
+      Fichier 71_14: 5212041741804211268
+      Fichier 71_15: -7050521043286276739
+      Fichier 71_16: 2640793215264688139
+      Fichier 71_17: -6636108413065711204
+      Fichier 71_18: 6032257707629200000
+      Fichier 71_19: 4531924797850409540
+      Fichier 71_2: 1232423879787100492
+      Fichier 71_22: 7220643772633939143
+      Fichier 71_23: 8389172610206422349
+      Fichier 71_24: 7865689699435494427
+      Fichier 71_25: 7300731061113126987
+      Fichier 71_3: 5535024471246788493
+      Fichier 71_6: 4143674017596908043
+      Fichier 71_7: -6921583709531788743
+      Fichier 71_8: 1885886113429588295
+      Fichier 71_9: 2090920113795171872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

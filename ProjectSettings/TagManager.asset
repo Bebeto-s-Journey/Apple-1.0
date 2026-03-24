@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Gun
+  - PlayerGunPos
+  - Bullets
+  - Ennemie
+  - WallScreenCollider
+  - Collider
+  - Joystick
+  - WallText
+  - WallUI
+  - WallColider
+  - UI
+  - Play
+  - Personnage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ColliderScreen
+  - Player
+  - Hanche
+  - gun
+  - Ennemie
+  - wall
+  - Collision
+  - Personnage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1943829597
+    locked: 0
+  - name: DecorEtPlayer
+    uniqueID: 2783188951
+    locked: 0
+  m_RenderingLayers:
+  - Default

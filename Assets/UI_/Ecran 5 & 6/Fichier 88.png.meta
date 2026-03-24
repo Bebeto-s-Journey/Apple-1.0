@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 56414b464d43be94fb7984bff6696884
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6088946551678356187
+    second: Fichier 88_0
+  - first:
+      213: 6238219997759988710
+    second: Fichier 88_1
+  - first:
+      213: -5028519045094616992
+    second: Fichier 88_2
+  - first:
+      213: 6518636287339983621
+    second: Fichier 88_3
+  - first:
+      213: -5172686894115515427
+    second: Fichier 88_4
+  - first:
+      213: 1084638801404127106
+    second: Fichier 88_5
+  - first:
+      213: 3155114179186136045
+    second: Fichier 88_6
+  - first:
+      213: -5927893675127177272
+    second: Fichier 88_7
+  - first:
+      213: 2943362393859401971
+    second: Fichier 88_8
+  - first:
+      213: -8819807506530205652
+    second: Fichier 88_9
+  - first:
+      213: -7633723985780161316
+    second: Fichier 88_10
+  - first:
+      213: -547925380023792018
+    second: Fichier 88_11
+  - first:
+      213: 6665721050866138894
+    second: Fichier 88_12
+  - first:
+      213: 8176559712299253574
+    second: Fichier 88_13
+  - first:
+      213: -5283280509921709687
+    second: Fichier 88_14
+  - first:
+      213: 6633071436858019497
+    second: Fichier 88_15
+  - first:
+      213: 5472560310174115156
+    second: Fichier 88_16
+  - first:
+      213: -7492243645064458803
+    second: Fichier 88_17
+  - first:
+      213: -6380676356943263751
+    second: Fichier 88_18
+  - first:
+      213: -6716693833230243386
+    second: Fichier 88_19
+  - first:
+      213: -5222188794687049862
+    second: Fichier 88_20
+  - first:
+      213: -2958598150454674750
+    second: Fichier 88_21
+  - first:
+      213: -8798368940343821276
+    second: Fichier 88_22
+  - first:
+      213: -5494459074667810032
+    second: Fichier 88_23
+  - first:
+      213: -3826247089809119174
+    second: Fichier 88_24
+  - first:
+      213: -8307607631564078685
+    second: Fichier 88_25
+  - first:
+      213: 7587783072916612520
+    second: Fichier 88_26
+  - first:
+      213: -9158692220905063014
+    second: Fichier 88_27
+  - first:
+      213: -6214567503092850416
+    second: Fichier 88_28
+  - first:
+      213: 4396780228868835943
+    second: Fichier 88_29
+  - first:
+      213: -7816226368310550559
+    second: Fichier 88_30
+  - first:
+      213: -2551986377169017704
+    second: Fichier 88_31
+  - first:
+      213: -1858355395461896521
+    second: Fichier 88_32
+  - first:
+      213: 3522253196457680458
+    second: Fichier 88_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fichier 88_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 375
+        width: 290
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdac02dc0a8408450800000000000000
+      internalID: 6088946551678356187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 344
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3e835590c929650800000000000000
+      internalID: 6238219997759988710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 345
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06059da129c173ab0800000000000000
+      internalID: -5028519045094616992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 345
+        width: 86
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503fed68a29d67a50800000000000000
+      internalID: 6518636287339983621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 352
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd31de50dace638b0800000000000000
+      internalID: -5172686894115515427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 345
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2876c434e396d0f00800000000000000
+      internalID: 1084638801404127106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 344
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3103421a739cb20800000000000000
+      internalID: 3155114179186136045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 345
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf72cb1c14ebbda0800000000000000
+      internalID: -5927893675127177272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 302
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8ab3ba08ce8d820800000000000000
+      internalID: 2943362393859401971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 302
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2081f95dcfb99580800000000000000
+      internalID: -8819807506530205652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 302
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4c13aea709f0690800000000000000
+      internalID: -7633723985780161316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 309
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ec24815c06568f0800000000000000
+      internalID: -547925380023792018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 302
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f38b0baf5618c50800000000000000
+      internalID: 6665721050866138894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 302
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ffd50bcb9f87170800000000000000
+      internalID: 8176559712299253574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 299
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9813f554e540ea6b0800000000000000
+      internalID: -5283280509921709687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 301
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae46bb04576d0c50800000000000000
+      internalID: 6633071436858019497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 260
+        width: 126
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45564d37b9072fb40800000000000000
+      internalID: 5472560310174115156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 259
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd4145b914360890800000000000000
+      internalID: -7492243645064458803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 259
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7c9add8a84377a0800000000000000
+      internalID: -6380676356943263751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 267
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c921459b8289c2a0800000000000000
+      internalID: -6716693833230243386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 260
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f27a6a5fe0787b0800000000000000
+      internalID: -5222188794687049862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_21
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 260
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca750158a2f0f6d0800000000000000
+      internalID: -2958598150454674750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 259
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cf9f3801ae5e580800000000000000
+      internalID: -8798368940343821276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 218
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013f08d1592cfb3b0800000000000000
+      internalID: -5494459074667810032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 217
+        width: 112
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a382e0d4b8076eac0800000000000000
+      internalID: -3826247089809119174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 225
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a18c4befd275bc80800000000000000
+      internalID: -8307607631564078685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 218
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5aae5c0883d4960800000000000000
+      internalID: 7587783072916612520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 217
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9df1dd23f9c5e080800000000000000
+      internalID: -9158692220905063014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 226
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011e67938cb61c9a0800000000000000
+      internalID: -6214567503092850416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 218
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a0031b250840d30800000000000000
+      internalID: 4396780228868835943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 218
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efdec8b78f278390800000000000000
+      internalID: -7816226368310550559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_31
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 219
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894643539e5859cd0800000000000000
+      internalID: -2551986377169017704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 352
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b620132d9bc536e0800000000000000
+      internalID: -1858355395461896521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 88_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 17
+        width: 339
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e18d7de9e81e030800000000000000
+      internalID: 3522253196457680458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fichier 88_0: 6088946551678356187
+      Fichier 88_1: 6238219997759988710
+      Fichier 88_10: -7633723985780161316
+      Fichier 88_11: -547925380023792018
+      Fichier 88_12: 6665721050866138894
+      Fichier 88_13: 8176559712299253574
+      Fichier 88_14: -5283280509921709687
+      Fichier 88_15: 6633071436858019497
+      Fichier 88_16: 5472560310174115156
+      Fichier 88_17: -7492243645064458803
+      Fichier 88_18: -6380676356943263751
+      Fichier 88_19: -6716693833230243386
+      Fichier 88_2: -5028519045094616992
+      Fichier 88_20: -5222188794687049862
+      Fichier 88_21: -2958598150454674750
+      Fichier 88_22: -8798368940343821276
+      Fichier 88_23: -5494459074667810032
+      Fichier 88_24: -3826247089809119174
+      Fichier 88_25: -8307607631564078685
+      Fichier 88_26: 7587783072916612520
+      Fichier 88_27: -9158692220905063014
+      Fichier 88_28: -6214567503092850416
+      Fichier 88_29: 4396780228868835943
+      Fichier 88_3: 6518636287339983621
+      Fichier 88_30: -7816226368310550559
+      Fichier 88_31: -2551986377169017704
+      Fichier 88_32: -1858355395461896521
+      Fichier 88_33: 3522253196457680458
+      Fichier 88_4: -5172686894115515427
+      Fichier 88_5: 1084638801404127106
+      Fichier 88_6: 3155114179186136045
+      Fichier 88_7: -5927893675127177272
+      Fichier 88_8: 2943362393859401971
+      Fichier 88_9: -8819807506530205652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

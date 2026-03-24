@@ -1,0 +1,5603 @@
+fileFormatVersion: 2
+guid: b7f4f37de09b6c4468a337859ca654bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5697327505103382444
+    second: Fichier 87_0
+  - first:
+      213: -1594680988983800745
+    second: Fichier 87_1
+  - first:
+      213: 6610337803650815388
+    second: Fichier 87_2
+  - first:
+      213: 8999417938462061657
+    second: Fichier 87_3
+  - first:
+      213: -1317502861805112107
+    second: Fichier 87_4
+  - first:
+      213: 6428385004930963230
+    second: Fichier 87_5
+  - first:
+      213: 6124325023600142707
+    second: Fichier 87_6
+  - first:
+      213: 2434650133015961066
+    second: Fichier 87_7
+  - first:
+      213: -4810500856857532467
+    second: Fichier 87_8
+  - first:
+      213: 2153506877699819753
+    second: Fichier 87_9
+  - first:
+      213: 7114308524854525150
+    second: Fichier 87_10
+  - first:
+      213: -3105048803108566707
+    second: Fichier 87_11
+  - first:
+      213: -1944130478244841880
+    second: Fichier 87_12
+  - first:
+      213: -6093031355404198253
+    second: Fichier 87_13
+  - first:
+      213: -7665431072233214271
+    second: Fichier 87_14
+  - first:
+      213: -4776341427205352026
+    second: Fichier 87_15
+  - first:
+      213: 2259613418300079454
+    second: Fichier 87_16
+  - first:
+      213: -1390114578768695081
+    second: Fichier 87_17
+  - first:
+      213: -2946950081194463242
+    second: Fichier 87_18
+  - first:
+      213: -5619381614447796611
+    second: Fichier 87_19
+  - first:
+      213: 8356691725574244306
+    second: Fichier 87_20
+  - first:
+      213: -3602756789931093119
+    second: Fichier 87_21
+  - first:
+      213: 8887367214519739743
+    second: Fichier 87_22
+  - first:
+      213: 8578903578727894782
+    second: Fichier 87_23
+  - first:
+      213: 8020575248405463082
+    second: Fichier 87_24
+  - first:
+      213: 6383305164848649494
+    second: Fichier 87_25
+  - first:
+      213: -1233293436990065271
+    second: Fichier 87_26
+  - first:
+      213: -5184273029273849536
+    second: Fichier 87_27
+  - first:
+      213: 8275472107527740119
+    second: Fichier 87_28
+  - first:
+      213: -1354548961718344877
+    second: Fichier 87_29
+  - first:
+      213: -1176145279123150529
+    second: Fichier 87_30
+  - first:
+      213: -5445272035056961873
+    second: Fichier 87_31
+  - first:
+      213: -7693722544307965459
+    second: Fichier 87_32
+  - first:
+      213: 8732798969024339557
+    second: Fichier 87_33
+  - first:
+      213: 6429328547963484397
+    second: Fichier 87_34
+  - first:
+      213: -658431000986933295
+    second: Fichier 87_35
+  - first:
+      213: -7150936541978779840
+    second: Fichier 87_36
+  - first:
+      213: -3608782174436356835
+    second: Fichier 87_37
+  - first:
+      213: -3508930340240116037
+    second: Fichier 87_38
+  - first:
+      213: -6709818850748957078
+    second: Fichier 87_39
+  - first:
+      213: -3621369629043776776
+    second: Fichier 87_40
+  - first:
+      213: 5551484870650693952
+    second: Fichier 87_41
+  - first:
+      213: 6090304501098140463
+    second: Fichier 87_42
+  - first:
+      213: 1458400087600248355
+    second: Fichier 87_43
+  - first:
+      213: 8069267184959740117
+    second: Fichier 87_44
+  - first:
+      213: -7564643984802596975
+    second: Fichier 87_45
+  - first:
+      213: 8828745758719433307
+    second: Fichier 87_46
+  - first:
+      213: -7947940326662939954
+    second: Fichier 87_47
+  - first:
+      213: 5158361297164162848
+    second: Fichier 87_48
+  - first:
+      213: 5899544082768807278
+    second: Fichier 87_49
+  - first:
+      213: -3434905787756636948
+    second: Fichier 87_50
+  - first:
+      213: -2432839720624522966
+    second: Fichier 87_51
+  - first:
+      213: -4874664125571291194
+    second: Fichier 87_52
+  - first:
+      213: -7623679394084193819
+    second: Fichier 87_53
+  - first:
+      213: -2089467714118997986
+    second: Fichier 87_54
+  - first:
+      213: -5037240044674701675
+    second: Fichier 87_55
+  - first:
+      213: -2327831469160808364
+    second: Fichier 87_56
+  - first:
+      213: -6568726913943101373
+    second: Fichier 87_57
+  - first:
+      213: 5865397525082881426
+    second: Fichier 87_58
+  - first:
+      213: -5041989372470042239
+    second: Fichier 87_59
+  - first:
+      213: -1084200784069544140
+    second: Fichier 87_60
+  - first:
+      213: -5833117178323506578
+    second: Fichier 87_61
+  - first:
+      213: 4602611795332861280
+    second: Fichier 87_62
+  - first:
+      213: -7001396385839571618
+    second: Fichier 87_63
+  - first:
+      213: -3432312530543498401
+    second: Fichier 87_64
+  - first:
+      213: -1535695872507711414
+    second: Fichier 87_65
+  - first:
+      213: 7263363619755400581
+    second: Fichier 87_66
+  - first:
+      213: 6173320504136364967
+    second: Fichier 87_67
+  - first:
+      213: 97308668090007407
+    second: Fichier 87_68
+  - first:
+      213: -5400667016701829838
+    second: Fichier 87_69
+  - first:
+      213: 453947334187575633
+    second: Fichier 87_70
+  - first:
+      213: 4244621699010145413
+    second: Fichier 87_71
+  - first:
+      213: -8124921597224545050
+    second: Fichier 87_72
+  - first:
+      213: -3818231391934991607
+    second: Fichier 87_73
+  - first:
+      213: 575979633427336967
+    second: Fichier 87_74
+  - first:
+      213: -4186601717639380104
+    second: Fichier 87_75
+  - first:
+      213: -8985631437837632847
+    second: Fichier 87_76
+  - first:
+      213: 6264828890038215368
+    second: Fichier 87_77
+  - first:
+      213: -8993625276362257491
+    second: Fichier 87_78
+  - first:
+      213: -3243642284524301345
+    second: Fichier 87_79
+  - first:
+      213: -7008054794645358834
+    second: Fichier 87_80
+  - first:
+      213: -917994350729457391
+    second: Fichier 87_81
+  - first:
+      213: -6304293440255978712
+    second: Fichier 87_82
+  - first:
+      213: 9018266086390033223
+    second: Fichier 87_83
+  - first:
+      213: -4890889289806414541
+    second: Fichier 87_84
+  - first:
+      213: 7657333556209920184
+    second: Fichier 87_85
+  - first:
+      213: 58825175735719124
+    second: Fichier 87_86
+  - first:
+      213: -8921334034241853734
+    second: Fichier 87_87
+  - first:
+      213: -4468172865870410875
+    second: Fichier 87_88
+  - first:
+      213: -2803109560882122046
+    second: Fichier 87_89
+  - first:
+      213: 7741454134792679315
+    second: Fichier 87_90
+  - first:
+      213: 395143302196776241
+    second: Fichier 87_91
+  - first:
+      213: -146115751510713482
+    second: Fichier 87_92
+  - first:
+      213: -2583171111369871166
+    second: Fichier 87_93
+  - first:
+      213: 3318249190294516113
+    second: Fichier 87_94
+  - first:
+      213: 5590339244037346357
+    second: Fichier 87_95
+  - first:
+      213: -1253318473366774714
+    second: Fichier 87_96
+  - first:
+      213: -1606019913656831340
+    second: Fichier 87_97
+  - first:
+      213: 6371832065231069629
+    second: Fichier 87_98
+  - first:
+      213: 8541516627100789729
+    second: Fichier 87_99
+  - first:
+      213: -3443120427960884503
+    second: Fichier 87_100
+  - first:
+      213: -2526528068006360999
+    second: Fichier 87_101
+  - first:
+      213: -7691051663818758347
+    second: Fichier 87_102
+  - first:
+      213: -3586388050620662943
+    second: Fichier 87_103
+  - first:
+      213: -3332045418051135947
+    second: Fichier 87_104
+  - first:
+      213: 4756059911879849304
+    second: Fichier 87_105
+  - first:
+      213: 1324820981737620178
+    second: Fichier 87_106
+  - first:
+      213: 1552376813635963614
+    second: Fichier 87_107
+  - first:
+      213: -6763520615453574247
+    second: Fichier 87_108
+  - first:
+      213: 5277239769859669118
+    second: Fichier 87_109
+  - first:
+      213: 5374739500701149890
+    second: Fichier 87_110
+  - first:
+      213: 2176264613512362062
+    second: Fichier 87_111
+  - first:
+      213: 9221834801369147530
+    second: Fichier 87_112
+  - first:
+      213: 3193666896913856597
+    second: Fichier 87_113
+  - first:
+      213: 8908837523001818668
+    second: Fichier 87_114
+  - first:
+      213: -347025871515135664
+    second: Fichier 87_115
+  - first:
+      213: 2455940595008225351
+    second: Fichier 87_116
+  - first:
+      213: 2105497939079384735
+    second: Fichier 87_117
+  - first:
+      213: 5743822430334758417
+    second: Fichier 87_118
+  - first:
+      213: -5579012672057104536
+    second: Fichier 87_119
+  - first:
+      213: -130240071655450129
+    second: Fichier 87_120
+  - first:
+      213: -3792111873068303029
+    second: Fichier 87_121
+  - first:
+      213: 1832179145438209055
+    second: Fichier 87_122
+  - first:
+      213: 5528764214276010116
+    second: Fichier 87_123
+  - first:
+      213: -8186784325010806486
+    second: Fichier 87_124
+  - first:
+      213: -1757807690142667337
+    second: Fichier 87_125
+  - first:
+      213: 4432459915674063160
+    second: Fichier 87_126
+  - first:
+      213: 5308294631587400201
+    second: Fichier 87_127
+  - first:
+      213: 70055523627138580
+    second: Fichier 87_128
+  - first:
+      213: -2477585297440302506
+    second: Fichier 87_129
+  - first:
+      213: 3085216103619657060
+    second: Fichier 87_130
+  - first:
+      213: -4286337934419909951
+    second: Fichier 87_131
+  - first:
+      213: 2630650013388716099
+    second: Fichier 87_132
+  - first:
+      213: 8982661450223967810
+    second: Fichier 87_133
+  - first:
+      213: -504864232749420945
+    second: Fichier 87_134
+  - first:
+      213: -6565702597168399723
+    second: Fichier 87_135
+  - first:
+      213: -2095453128109908949
+    second: Fichier 87_136
+  - first:
+      213: 2788253937851375547
+    second: Fichier 87_137
+  - first:
+      213: 9059746590532784905
+    second: Fichier 87_138
+  - first:
+      213: 1290223894793175815
+    second: Fichier 87_139
+  - first:
+      213: -6191955390250809592
+    second: Fichier 87_140
+  - first:
+      213: -1965090777629041808
+    second: Fichier 87_141
+  - first:
+      213: 577792030053704557
+    second: Fichier 87_142
+  - first:
+      213: 3193536883943813515
+    second: Fichier 87_143
+  - first:
+      213: -5633323987591466066
+    second: Fichier 87_144
+  - first:
+      213: 428485287534361008
+    second: Fichier 87_145
+  - first:
+      213: -7174251087758686954
+    second: Fichier 87_146
+  - first:
+      213: 4365114294234869002
+    second: Fichier 87_147
+  - first:
+      213: 3989955915572537385
+    second: Fichier 87_148
+  - first:
+      213: 8869463048216161150
+    second: Fichier 87_149
+  - first:
+      213: -3774395485059819259
+    second: Fichier 87_150
+  - first:
+      213: 5922198653395339250
+    second: Fichier 87_151
+  - first:
+      213: 7644671395300406676
+    second: Fichier 87_152
+  - first:
+      213: 8803114946203808984
+    second: Fichier 87_153
+  - first:
+      213: -2888873766813985362
+    second: Fichier 87_154
+  - first:
+      213: -3385835272074606609
+    second: Fichier 87_155
+  - first:
+      213: 6768808009378968909
+    second: Fichier 87_156
+  - first:
+      213: -6285086437612570609
+    second: Fichier 87_157
+  - first:
+      213: 82368078137482208
+    second: Fichier 87_158
+  - first:
+      213: 2163853087039371970
+    second: Fichier 87_159
+  - first:
+      213: 5658331207425805412
+    second: Fichier 87_160
+  - first:
+      213: 4264345635877664206
+    second: Fichier 87_161
+  - first:
+      213: -4206156910983766259
+    second: Fichier 87_162
+  - first:
+      213: 7687608337822349773
+    second: Fichier 87_163
+  - first:
+      213: 8510769025572206698
+    second: Fichier 87_164
+  - first:
+      213: -2268257686615835601
+    second: Fichier 87_165
+  - first:
+      213: -5337975795902114757
+    second: Fichier 87_166
+  - first:
+      213: 7114824235357002511
+    second: Fichier 87_167
+  - first:
+      213: -2705828172806206799
+    second: Fichier 87_168
+  - first:
+      213: -7761738639026541336
+    second: Fichier 87_169
+  - first:
+      213: -3856519850993270493
+    second: Fichier 87_170
+  - first:
+      213: -692717602145087717
+    second: Fichier 87_171
+  - first:
+      213: 1848835064444522525
+    second: Fichier 87_172
+  - first:
+      213: 4311863295843315237
+    second: Fichier 87_173
+  - first:
+      213: 6082917626749607256
+    second: Fichier 87_174
+  - first:
+      213: -2708570410096413177
+    second: Fichier 87_175
+  - first:
+      213: 3104148771673156631
+    second: Fichier 87_176
+  - first:
+      213: -2753327956422062862
+    second: Fichier 87_177
+  - first:
+      213: -5485009441051754638
+    second: Fichier 87_178
+  - first:
+      213: 6874149423799680360
+    second: Fichier 87_179
+  - first:
+      213: 1928629977942431066
+    second: Fichier 87_180
+  - first:
+      213: 6395139577117715744
+    second: Fichier 87_181
+  - first:
+      213: 2674055021091126397
+    second: Fichier 87_182
+  - first:
+      213: -1382802707931512472
+    second: Fichier 87_183
+  - first:
+      213: 2402251894415787908
+    second: Fichier 87_184
+  - first:
+      213: -8021896121276895561
+    second: Fichier 87_185
+  - first:
+      213: -5823740491324936117
+    second: Fichier 87_186
+  - first:
+      213: 1929738818018456193
+    second: Fichier 87_187
+  - first:
+      213: 6056684320587536500
+    second: Fichier 87_188
+  - first:
+      213: -5077605257361831364
+    second: Fichier 87_189
+  - first:
+      213: -5411752502693774053
+    second: Fichier 87_190
+  - first:
+      213: 5139309398781129462
+    second: Fichier 87_191
+  - first:
+      213: 2201247357374235883
+    second: Fichier 87_192
+  - first:
+      213: -315561683318210049
+    second: Fichier 87_193
+  - first:
+      213: -2223377610929830208
+    second: Fichier 87_194
+  - first:
+      213: 211576386742442133
+    second: Fichier 87_195
+  - first:
+      213: 599295943698262575
+    second: Fichier 87_196
+  - first:
+      213: 603428856911116569
+    second: Fichier 87_197
+  - first:
+      213: 8789975521453655564
+    second: Fichier 87_198
+  - first:
+      213: -214473975554542254
+    second: Fichier 87_199
+  - first:
+      213: -4750229082106270802
+    second: Fichier 87_200
+  - first:
+      213: 5858606041211321295
+    second: Fichier 87_201
+  - first:
+      213: -5318074197226464746
+    second: Fichier 87_202
+  - first:
+      213: -4116781181048960855
+    second: Fichier 87_203
+  - first:
+      213: 3278389114755927117
+    second: Fichier 87_204
+  - first:
+      213: -8305634353303791390
+    second: Fichier 87_205
+  - first:
+      213: 2725025187896249721
+    second: Fichier 87_206
+  - first:
+      213: 7057999370018002565
+    second: Fichier 87_207
+  - first:
+      213: 8337626291825555402
+    second: Fichier 87_208
+  - first:
+      213: 1954155738453552690
+    second: Fichier 87_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fichier 87_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 623
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7efbe1e29f01f40800000000000000
+      internalID: 5697327505103382444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 618
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c4d89e61e8ed9e0800000000000000
+      internalID: -1594680988983800745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 635
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9551f79533acbb50800000000000000
+      internalID: 6610337803650815388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 447
+        width: 83
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9543f4f1fea54ec70800000000000000
+      internalID: 8999417938462061657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 630
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4bb8ba02a47bde0800000000000000
+      internalID: -1317502861805112107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 634
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e179b5a5a16363950800000000000000
+      internalID: 6428385004930963230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 632
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379e8b03929fdf450800000000000000
+      internalID: 6124325023600142707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 642
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed16ca856d99c120800000000000000
+      internalID: 2434650133015961066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 625
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc76b4335faad3db0800000000000000
+      internalID: -4810500856857532467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 634
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e888a2781bc2ed10800000000000000
+      internalID: 2153506877699819753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 618
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcbc7ef8e91bb260800000000000000
+      internalID: 7114308524854525150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 625
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4946789096a8e4d0800000000000000
+      internalID: -3105048803108566707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 614
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866b43761af0505e0800000000000000
+      internalID: -1944130478244841880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 629
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ed0d7b344317ba0800000000000000
+      internalID: -6093031355404198253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 622
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce2c419d0bee9590800000000000000
+      internalID: -7665431072233214271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_15
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 594
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5517137c607bdb0800000000000000
+      internalID: -4776341427205352026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 619
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d7b779e62cb5f10800000000000000
+      internalID: 2259613418300079454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_17
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 627
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0766fd72255bce0800000000000000
+      internalID: -1390114578768695081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 608
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff6897c3845a17d0800000000000000
+      internalID: -2946950081194463242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 610
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e5a75c132f302b0800000000000000
+      internalID: -5619381614447796611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_20
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 608
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d78c4849dee8f370800000000000000
+      internalID: 8356691725574244306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_21
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 617
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183d70ca9cf600ec0800000000000000
+      internalID: -3602756789931093119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 609
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55e6e1f465465b70800000000000000
+      internalID: 8887367214519739743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 597
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe47641a536e0770800000000000000
+      internalID: 8578903578727894782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_24
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 616
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a208f7f81bece4f60800000000000000
+      internalID: 8020575248405463082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 609
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61558bb2a3e069850800000000000000
+      internalID: 6383305164848649494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_26
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 615
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985f260472672eee0800000000000000
+      internalID: -1233293436990065271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_27
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 610
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0417e77b523cd08b0800000000000000
+      internalID: -5184273029273849536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_28
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 609
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da18d5590268d270800000000000000
+      internalID: 8275472107527740119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 606
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35367e165eca33de0800000000000000
+      internalID: -1354548961718344877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 609
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39ac91a91e7dafe0800000000000000
+      internalID: -1176145279123150529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 605
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6bf053fe18e64b0800000000000000
+      internalID: -5445272035056961873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 601
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1fb1aeb186a3590800000000000000
+      internalID: -7693722544307965459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 604
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ed79bd462213970800000000000000
+      internalID: 8732798969024339557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_34
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 602
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de834a51040993950800000000000000
+      internalID: 6429328547963484397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_35
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 598
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7a11d3e78ccd6f0800000000000000
+      internalID: -658431000986933295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 591
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f9ef33a15c2cc90800000000000000
+      internalID: -7150936541978779840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 595
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d85f48bb70bedc0800000000000000
+      internalID: -3608782174436356835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 593
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6b5685276cd4fc0800000000000000
+      internalID: -3508930340240116037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 587
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e73ed2e4fe1e2a0800000000000000
+      internalID: -6709818850748957078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_40
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 590
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2257c528f4ebdc0800000000000000
+      internalID: -3621369629043776776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_41
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 595
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049071ba316da0d40800000000000000
+      internalID: 5551484870650693952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_42
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 598
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23dae90dab158450800000000000000
+      internalID: 6090304501098140463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_43
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 578
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326bfc917274d3410800000000000000
+      internalID: 1458400087600248355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_44
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 566
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8dd3d70cbcbff60800000000000000
+      internalID: 8069267184959740117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 381
+        width: 83
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197bb81006cf40790800000000000000
+      internalID: -7564643984802596975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_46
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 578
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a55b8ad71068a70800000000000000
+      internalID: 8828745758719433307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_47
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 555
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecad045026e33b190800000000000000
+      internalID: -7947940326662939954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_48
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 586
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027d794054e269740800000000000000
+      internalID: 5158361297164162848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_49
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 575
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65413e06146fd150800000000000000
+      internalID: 5899544082768807278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_50
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 572
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce415db8263c450d0800000000000000
+      internalID: -3434905787756636948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_51
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 552
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29f6b0f921dc3ed0800000000000000
+      internalID: -2432839720624522966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 576
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7abfb0ec6b95cb0800000000000000
+      internalID: -4874664125571291194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_53
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 562
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9752aabff333690800000000000000
+      internalID: -7623679394084193819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_54
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 577
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e182a4a3f28b003e0800000000000000
+      internalID: -2089467714118997986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 569
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596aac82ed0281ab0800000000000000
+      internalID: -5037240044674701675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_56
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 569
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450c1b7bc91e1bfd0800000000000000
+      internalID: -2327831469160808364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 558
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340afd3aca137d4a0800000000000000
+      internalID: -6568726913943101373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_58
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 563
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d350d09f3166150800000000000000
+      internalID: 5865397525082881426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_59
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 561
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181e0ac1161470ab0800000000000000
+      internalID: -5041989372470042239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_60
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 536
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437b558912524f0f0800000000000000
+      internalID: -1084200784069544140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_61
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 547
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a6cccd4da9c0fa0800000000000000
+      internalID: -5833117178323506578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_62
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 556
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d86dbca03cfdf30800000000000000
+      internalID: 4602611795332861280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_63
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 567
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d1452051b06de90800000000000000
+      internalID: -7001396385839571618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_64
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 549
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b25da40f9fd50d0800000000000000
+      internalID: -3432312530543498401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_65
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 531
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40f42c8dbc10bae0800000000000000
+      internalID: -1535695872507711414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 537
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d140eaab6acc460800000000000000
+      internalID: 7263363619755400581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_67
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 535
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3fea57a4a0ca550800000000000000
+      internalID: 6173320504136364967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_68
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 556
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f3213d7b5b95100800000000000000
+      internalID: 97308668090007407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_69
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 412
+        width: 70
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d915756f9fc05b0800000000000000
+      internalID: -5400667016701829838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_70
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 517
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1596cf002bebc4600800000000000000
+      internalID: 453947334187575633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_71
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 544
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c2a6f32fce7ea30800000000000000
+      internalID: 4244621699010145413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_72
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 527
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e41881eada7e3f80800000000000000
+      internalID: -8124921597224545050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_73
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 523
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903387567cae20bc0800000000000000
+      internalID: -3818231391934991607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 523
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fcb48cc6a4ef700800000000000000
+      internalID: 575979633427336967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_75
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 526
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873801c5be336e5c0800000000000000
+      internalID: -4186601717639380104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 531
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bafa11b0df9c4380800000000000000
+      internalID: -8985631437837632847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_77
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 524
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c22559dea421f650800000000000000
+      internalID: 6264828890038215368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_78
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 535
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab047f1679303380800000000000000
+      internalID: -8993625276362257491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd31e7c17844cf2d0800000000000000
+      internalID: -3243642284524301345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 510
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07b0b66b436ebe90800000000000000
+      internalID: -7008054794645358834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_81
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 510
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11194f27001a243f0800000000000000
+      internalID: -917994350729457391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_82
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 501
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82397b58486a288a0800000000000000
+      internalID: -6304293440255978712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_83
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 518
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bea398931572d70800000000000000
+      internalID: 9018266086390033223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_84
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 496
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d735d9a12102cb0800000000000000
+      internalID: -4890889289806414541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_85
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 508
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b822909c40544a60800000000000000
+      internalID: 7657333556209920184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_86
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 487
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4d3978f2df0d000800000000000000
+      internalID: 58825175735719124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_87
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 493
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6696e86fd013480800000000000000
+      internalID: -8921334034241853734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_88
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 508
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b41cea37cddf1c0800000000000000
+      internalID: -4468172865870410875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_89
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 494
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2be15b4ba5919d0800000000000000
+      internalID: -2803109560882122046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_90
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 494
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39feb45058b2f6b60800000000000000
+      internalID: 7741454134792679315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_91
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 487
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d40d26db4db7500800000000000000
+      internalID: 395143302196776241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_92
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 470
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b5d178f74e8fdf0800000000000000
+      internalID: -146115751510713482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_93
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 463
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c07fb87f8bb62cd0800000000000000
+      internalID: -2583171111369871166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_94
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 478
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1917bb7ce0acc0e20800000000000000
+      internalID: 3318249190294516113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_95
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 463
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53495ce6cefd49d40800000000000000
+      internalID: 5590339244037346357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_96
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 480
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cd9842d715b9ee0800000000000000
+      internalID: -1253318473366774714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_97
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 463
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492f748c56546b9e0800000000000000
+      internalID: -1606019913656831340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_98
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 456
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1aa80018b4d6850800000000000000
+      internalID: 6371832065231069629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_99
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 461
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb6f611e10998670800000000000000
+      internalID: 8541516627100789729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_100
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 459
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2208496349730d0800000000000000
+      internalID: -3443120427960884503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_101
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 445
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584d67bb18ffecd0800000000000000
+      internalID: -2526528068006360999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_102
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 453
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537e7ecb245e34590800000000000000
+      internalID: -7691051663818758347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_103
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 458
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bbc08c1179a3ec0800000000000000
+      internalID: -3586388050620662943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_104
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5361891a85232c1d0800000000000000
+      internalID: -3332045418051135947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_105
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 425
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855f21a8a4be00240800000000000000
+      internalID: 4756059911879849304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_106
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 431
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d28477e9a5b26210800000000000000
+      internalID: 1324820981737620178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_107
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 431
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda0356bc762b8510800000000000000
+      internalID: 1552376813635963614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_108
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 434
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bbbdcb5d52322a0800000000000000
+      internalID: -6763520615453574247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_109
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 438
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cbc055c958c3940800000000000000
+      internalID: 5277239769859669118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_110
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 430
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca6d8b6919e69a40800000000000000
+      internalID: 5374739500701149890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_111
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 430
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4838a9b225a33e10800000000000000
+      internalID: 2176264613512362062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_112
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 435
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8861f874e98aff70800000000000000
+      internalID: 9221834801369147530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_113
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 419
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55879793f1f225c20800000000000000
+      internalID: 3193666896913856597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_114
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 409
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb130b68c82ab70800000000000000
+      internalID: 8908837523001818668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_115
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 413
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0515878fecd1f2bf0800000000000000
+      internalID: -347025871515135664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_116
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 406
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7404de285f0451220800000000000000
+      internalID: 2455940595008225351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_117
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 414
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ec42e583b383d10800000000000000
+      internalID: 2105497939079384735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_118
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 405
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e260d711826bf40800000000000000
+      internalID: 5743822430334758417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_119
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 381
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86722ac988d5392b0800000000000000
+      internalID: -5579012672057104536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_120
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 398
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe99479485b413ef0800000000000000
+      internalID: -130240071655450129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_121
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 401
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4df839c756bf5bc0800000000000000
+      internalID: -3792111873068303029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_122
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 398
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1429b8b9353d6910800000000000000
+      internalID: 1832179145438209055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_123
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 398
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48030de92cd1abc40800000000000000
+      internalID: 5528764214276010116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_124
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 377
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29aef62803b26e80800000000000000
+      internalID: -8186784325010806486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_125
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 388
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bda89518330b97e0800000000000000
+      internalID: -1757807690142667337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_126
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 394
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83119e22fc2438d30800000000000000
+      internalID: 4432459915674063160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_127
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 392
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a41e6c7d9daa940800000000000000
+      internalID: 5308294631587400201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_128
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 376
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e7958a023e8f000800000000000000
+      internalID: 70055523627138580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_129
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 365
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a175d7c49dd9dd0800000000000000
+      internalID: -2477585297440302506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_130
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d709733b3e0da20800000000000000
+      internalID: 3085216103619657060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_131
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 356
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2ae9fcb5ed384c0800000000000000
+      internalID: -4286337934419909951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_132
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 340
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3483968df32f18420800000000000000
+      internalID: 2630650013388716099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_133
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 357
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ed13e2ff2d8ac70800000000000000
+      internalID: 8982661450223967810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_134
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 343
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eab2bb7ac5ef8f0800000000000000
+      internalID: -504864232749420945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_135
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 363
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59afae24640f1e4a0800000000000000
+      internalID: -6565702597168399723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_136
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 339
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c178f6b747be2e0800000000000000
+      internalID: -2095453128109908949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_137
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 365
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf17350f2ed1b620800000000000000
+      internalID: 2788253937851375547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_138
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 330
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90353c3068faabd70800000000000000
+      internalID: 9059746590532784905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_139
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 324
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7034ed1ebcbc7e110800000000000000
+      internalID: 1290223894793175815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_140
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 341
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80709030161c11aa0800000000000000
+      internalID: -6191955390250809592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 328
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b560869589ab4e0800000000000000
+      internalID: -1965090777629041808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_142
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 341
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6327614acab40800800000000000000
+      internalID: 577792030053704557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_143
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 343
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81349830e8b15c20800000000000000
+      internalID: 3193536883943813515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_144
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea37cee0ea962d1b0800000000000000
+      internalID: -5633323987591466066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_145
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 347
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b977fa491942f500800000000000000
+      internalID: 428485287534361008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_146
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 312
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6150fa085a0ff6c90800000000000000
+      internalID: -7174251087758686954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_147
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 299
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d69dfb250049c30800000000000000
+      internalID: 4365114294234869002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 318
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9286b29f3cb2f5730800000000000000
+      internalID: 3989955915572537385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_149
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 326
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ba06166a9a61b70800000000000000
+      internalID: 8869463048216161150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_150
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 323
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509db2fcd47ae9bc0800000000000000
+      internalID: -3774395485059819259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_151
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 171
+        width: 82
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f70de05c40ef2250800000000000000
+      internalID: 5922198653395339250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_152
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 314
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495787d7124571a60800000000000000
+      internalID: 7644671395300406676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_153
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4f8651762fa2a70800000000000000
+      internalID: 8803114946203808984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_154
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 287
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea59b107d98a8e7d0800000000000000
+      internalID: -2888873766813985362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_155
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 296
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7410c42c81301d0800000000000000
+      internalID: -3385835272074606609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 289
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d453ad79503afed50800000000000000
+      internalID: 6768808009378968909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_157
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 273
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f083a7f4f23e6c8a0800000000000000
+      internalID: -6285086437612570609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_158
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 282
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb5736a451a42100800000000000000
+      internalID: 82368078137482208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_159
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca3d170bec870e10800000000000000
+      internalID: 2163853087039371970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_160
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 275
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c4f18014e668e40800000000000000
+      internalID: 5658331207425805412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_161
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 259
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5b9f923cffd2b30800000000000000
+      internalID: 4264345635877664206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_162
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 270
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f124b139ab0a5c0800000000000000
+      internalID: -4206156910983766259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_163
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 258
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc97b347d0fdfaa60800000000000000
+      internalID: 7687608337822349773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_164
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 239
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68f0a636535c1670800000000000000
+      internalID: 8510769025572206698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_165
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 239
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cb63ad6a78580e0800000000000000
+      internalID: -2268257686615835601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_166
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 252
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b341f91ab43bbe5b0800000000000000
+      internalID: -5337975795902114757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_167
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 237
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b5bc332feecb260800000000000000
+      internalID: 7114824235357002511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 257
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba44a8ec97f27ad0800000000000000
+      internalID: -2705828172806206799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_169
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 246
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec266dc4d3c84490800000000000000
+      internalID: -7761738639026541336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_170
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 233
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321cd44d0a3ea7ac0800000000000000
+      internalID: -3856519850993270493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_171
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 236
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f4b72d209f266f0800000000000000
+      internalID: -692717602145087717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_172
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 223
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10908012b168a910800000000000000
+      internalID: 1848835064444522525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_173
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 234
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e29c482d0d6db30800000000000000
+      internalID: 4311863295843315237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_174
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 222
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d5f545a5dda6450800000000000000
+      internalID: 6082917626749607256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_175
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 205
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706b1190099396ad0800000000000000
+      internalID: -2708570410096413177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_176
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 217
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c2b818cd6241b20800000000000000
+      internalID: 3104148771673156631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_177
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 212
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc8f47bfc63ac9d0800000000000000
+      internalID: -2753327956422062862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_178
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 198
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f327469f451e3b0800000000000000
+      internalID: -5485009441051754638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_179
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 185
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d398aea72e56f50800000000000000
+      internalID: 6874149423799680360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_180
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 203
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a559d622fbed3ca10800000000000000
+      internalID: 1928629977942431066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_181
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 195
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02da42fff8910c850800000000000000
+      internalID: 6395139577117715744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_182
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 198
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c7cf9bfd62c1520800000000000000
+      internalID: 2674055021091126397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_183
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 199
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8614b47734c4fcce0800000000000000
+      internalID: -1382802707931512472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_184
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48789abce53865120800000000000000
+      internalID: 2402251894415787908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_185
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 169
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bee432caff7ca090800000000000000
+      internalID: -8021896121276895561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_186
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 173
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b48ee0eaed2fa0800000000000000
+      internalID: -5823740491324936117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_187
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 155
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182b5451b3fc7ca10800000000000000
+      internalID: 1929738818018456193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_188
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4785c45cc4aad0450800000000000000
+      internalID: 6056684320587536500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_189
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 151
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aca45bbe8b889b0800000000000000
+      internalID: -5077605257361831364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_190
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 148
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d3b9085c795e4b0800000000000000
+      internalID: -5411752502693774053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_191
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 163
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2fc214bae725740800000000000000
+      internalID: 5139309398781129462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_192
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 135
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be40f0f0fc66c8e10800000000000000
+      internalID: 2201247357374235883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_193
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 137
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff108192256ee9bf0800000000000000
+      internalID: -315561683318210049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_194
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c688f2c7d9f421e0800000000000000
+      internalID: -2223377610929830208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_195
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598d4ae4a9bafe200800000000000000
+      internalID: 211576386742442133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_196
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 114
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aa77f4c70215800800000000000000
+      internalID: 599295943698262575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_197
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 111
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9193867295fcf5800800000000000000
+      internalID: 603428856911116569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_198
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 124
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06cf9c5a244cf970800000000000000
+      internalID: 8789975521453655564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_199
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 106
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25571893e09060df0800000000000000
+      internalID: -214473975554542254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_200
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 96
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab635f41dbc31eb0800000000000000
+      internalID: -4750229082106270802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_201
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbbb5d7723fd4150800000000000000
+      internalID: 5858606041211321295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_202
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 75
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a5529a1b76236b0800000000000000
+      internalID: -5318074197226464746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_203
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 61
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a84095d3514ed6c0800000000000000
+      internalID: -4116781181048960855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_204
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cc88cb78d2f7d20800000000000000
+      internalID: 3278389114755927117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_205
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 48
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8db019f857cbc80800000000000000
+      internalID: -8305634353303791390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_206
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d4c8878fb31d520800000000000000
+      internalID: 2725025187896249721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_207
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5869ada380d03f160800000000000000
+      internalID: 7057999370018002565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_208
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7383210f235b370800000000000000
+      internalID: 8337626291825555402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fichier 87_209
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ea0526a4e8e1b10800000000000000
+      internalID: 1954155738453552690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fichier 87_0: 5697327505103382444
+      Fichier 87_1: -1594680988983800745
+      Fichier 87_10: 7114308524854525150
+      Fichier 87_100: -3443120427960884503
+      Fichier 87_101: -2526528068006360999
+      Fichier 87_102: -7691051663818758347
+      Fichier 87_103: -3586388050620662943
+      Fichier 87_104: -3332045418051135947
+      Fichier 87_105: 4756059911879849304
+      Fichier 87_106: 1324820981737620178
+      Fichier 87_107: 1552376813635963614
+      Fichier 87_108: -6763520615453574247
+      Fichier 87_109: 5277239769859669118
+      Fichier 87_11: -3105048803108566707
+      Fichier 87_110: 5374739500701149890
+      Fichier 87_111: 2176264613512362062
+      Fichier 87_112: 9221834801369147530
+      Fichier 87_113: 3193666896913856597
+      Fichier 87_114: 8908837523001818668
+      Fichier 87_115: -347025871515135664
+      Fichier 87_116: 2455940595008225351
+      Fichier 87_117: 2105497939079384735
+      Fichier 87_118: 5743822430334758417
+      Fichier 87_119: -5579012672057104536
+      Fichier 87_12: -1944130478244841880
+      Fichier 87_120: -130240071655450129
+      Fichier 87_121: -3792111873068303029
+      Fichier 87_122: 1832179145438209055
+      Fichier 87_123: 5528764214276010116
+      Fichier 87_124: -8186784325010806486
+      Fichier 87_125: -1757807690142667337
+      Fichier 87_126: 4432459915674063160
+      Fichier 87_127: 5308294631587400201
+      Fichier 87_128: 70055523627138580
+      Fichier 87_129: -2477585297440302506
+      Fichier 87_13: -6093031355404198253
+      Fichier 87_130: 3085216103619657060
+      Fichier 87_131: -4286337934419909951
+      Fichier 87_132: 2630650013388716099
+      Fichier 87_133: 8982661450223967810
+      Fichier 87_134: -504864232749420945
+      Fichier 87_135: -6565702597168399723
+      Fichier 87_136: -2095453128109908949
+      Fichier 87_137: 2788253937851375547
+      Fichier 87_138: 9059746590532784905
+      Fichier 87_139: 1290223894793175815
+      Fichier 87_14: -7665431072233214271
+      Fichier 87_140: -6191955390250809592
+      Fichier 87_141: -1965090777629041808
+      Fichier 87_142: 577792030053704557
+      Fichier 87_143: 3193536883943813515
+      Fichier 87_144: -5633323987591466066
+      Fichier 87_145: 428485287534361008
+      Fichier 87_146: -7174251087758686954
+      Fichier 87_147: 4365114294234869002
+      Fichier 87_148: 3989955915572537385
+      Fichier 87_149: 8869463048216161150
+      Fichier 87_15: -4776341427205352026
+      Fichier 87_150: -3774395485059819259
+      Fichier 87_151: 5922198653395339250
+      Fichier 87_152: 7644671395300406676
+      Fichier 87_153: 8803114946203808984
+      Fichier 87_154: -2888873766813985362
+      Fichier 87_155: -3385835272074606609
+      Fichier 87_156: 6768808009378968909
+      Fichier 87_157: -6285086437612570609
+      Fichier 87_158: 82368078137482208
+      Fichier 87_159: 2163853087039371970
+      Fichier 87_16: 2259613418300079454
+      Fichier 87_160: 5658331207425805412
+      Fichier 87_161: 4264345635877664206
+      Fichier 87_162: -4206156910983766259
+      Fichier 87_163: 7687608337822349773
+      Fichier 87_164: 8510769025572206698
+      Fichier 87_165: -2268257686615835601
+      Fichier 87_166: -5337975795902114757
+      Fichier 87_167: 7114824235357002511
+      Fichier 87_168: -2705828172806206799
+      Fichier 87_169: -7761738639026541336
+      Fichier 87_17: -1390114578768695081
+      Fichier 87_170: -3856519850993270493
+      Fichier 87_171: -692717602145087717
+      Fichier 87_172: 1848835064444522525
+      Fichier 87_173: 4311863295843315237
+      Fichier 87_174: 6082917626749607256
+      Fichier 87_175: -2708570410096413177
+      Fichier 87_176: 3104148771673156631
+      Fichier 87_177: -2753327956422062862
+      Fichier 87_178: -5485009441051754638
+      Fichier 87_179: 6874149423799680360
+      Fichier 87_18: -2946950081194463242
+      Fichier 87_180: 1928629977942431066
+      Fichier 87_181: 6395139577117715744
+      Fichier 87_182: 2674055021091126397
+      Fichier 87_183: -1382802707931512472
+      Fichier 87_184: 2402251894415787908
+      Fichier 87_185: -8021896121276895561
+      Fichier 87_186: -5823740491324936117
+      Fichier 87_187: 1929738818018456193
+      Fichier 87_188: 6056684320587536500
+      Fichier 87_189: -5077605257361831364
+      Fichier 87_19: -5619381614447796611
+      Fichier 87_190: -5411752502693774053
+      Fichier 87_191: 5139309398781129462
+      Fichier 87_192: 2201247357374235883
+      Fichier 87_193: -315561683318210049
+      Fichier 87_194: -2223377610929830208
+      Fichier 87_195: 211576386742442133
+      Fichier 87_196: 599295943698262575
+      Fichier 87_197: 603428856911116569
+      Fichier 87_198: 8789975521453655564
+      Fichier 87_199: -214473975554542254
+      Fichier 87_2: 6610337803650815388
+      Fichier 87_20: 8356691725574244306
+      Fichier 87_200: -4750229082106270802
+      Fichier 87_201: 5858606041211321295
+      Fichier 87_202: -5318074197226464746
+      Fichier 87_203: -4116781181048960855
+      Fichier 87_204: 3278389114755927117
+      Fichier 87_205: -8305634353303791390
+      Fichier 87_206: 2725025187896249721
+      Fichier 87_207: 7057999370018002565
+      Fichier 87_208: 8337626291825555402
+      Fichier 87_209: 1954155738453552690
+      Fichier 87_21: -3602756789931093119
+      Fichier 87_22: 8887367214519739743
+      Fichier 87_23: 8578903578727894782
+      Fichier 87_24: 8020575248405463082
+      Fichier 87_25: 6383305164848649494
+      Fichier 87_26: -1233293436990065271
+      Fichier 87_27: -5184273029273849536
+      Fichier 87_28: 8275472107527740119
+      Fichier 87_29: -1354548961718344877
+      Fichier 87_3: 8999417938462061657
+      Fichier 87_30: -1176145279123150529
+      Fichier 87_31: -5445272035056961873
+      Fichier 87_32: -7693722544307965459
+      Fichier 87_33: 8732798969024339557
+      Fichier 87_34: 6429328547963484397
+      Fichier 87_35: -658431000986933295
+      Fichier 87_36: -7150936541978779840
+      Fichier 87_37: -3608782174436356835
+      Fichier 87_38: -3508930340240116037
+      Fichier 87_39: -6709818850748957078
+      Fichier 87_4: -1317502861805112107
+      Fichier 87_40: -3621369629043776776
+      Fichier 87_41: 5551484870650693952
+      Fichier 87_42: 6090304501098140463
+      Fichier 87_43: 1458400087600248355
+      Fichier 87_44: 8069267184959740117
+      Fichier 87_45: -7564643984802596975
+      Fichier 87_46: 8828745758719433307
+      Fichier 87_47: -7947940326662939954
+      Fichier 87_48: 5158361297164162848
+      Fichier 87_49: 5899544082768807278
+      Fichier 87_5: 6428385004930963230
+      Fichier 87_50: -3434905787756636948
+      Fichier 87_51: -2432839720624522966
+      Fichier 87_52: -4874664125571291194
+      Fichier 87_53: -7623679394084193819
+      Fichier 87_54: -2089467714118997986
+      Fichier 87_55: -5037240044674701675
+      Fichier 87_56: -2327831469160808364
+      Fichier 87_57: -6568726913943101373
+      Fichier 87_58: 5865397525082881426
+      Fichier 87_59: -5041989372470042239
+      Fichier 87_6: 6124325023600142707
+      Fichier 87_60: -1084200784069544140
+      Fichier 87_61: -5833117178323506578
+      Fichier 87_62: 4602611795332861280
+      Fichier 87_63: -7001396385839571618
+      Fichier 87_64: -3432312530543498401
+      Fichier 87_65: -1535695872507711414
+      Fichier 87_66: 7263363619755400581
+      Fichier 87_67: 6173320504136364967
+      Fichier 87_68: 97308668090007407
+      Fichier 87_69: -5400667016701829838
+      Fichier 87_7: 2434650133015961066
+      Fichier 87_70: 453947334187575633
+      Fichier 87_71: 4244621699010145413
+      Fichier 87_72: -8124921597224545050
+      Fichier 87_73: -3818231391934991607
+      Fichier 87_74: 575979633427336967
+      Fichier 87_75: -4186601717639380104
+      Fichier 87_76: -8985631437837632847
+      Fichier 87_77: 6264828890038215368
+      Fichier 87_78: -8993625276362257491
+      Fichier 87_79: -3243642284524301345
+      Fichier 87_8: -4810500856857532467
+      Fichier 87_80: -7008054794645358834
+      Fichier 87_81: -917994350729457391
+      Fichier 87_82: -6304293440255978712
+      Fichier 87_83: 9018266086390033223
+      Fichier 87_84: -4890889289806414541
+      Fichier 87_85: 7657333556209920184
+      Fichier 87_86: 58825175735719124
+      Fichier 87_87: -8921334034241853734
+      Fichier 87_88: -4468172865870410875
+      Fichier 87_89: -2803109560882122046
+      Fichier 87_9: 2153506877699819753
+      Fichier 87_90: 7741454134792679315
+      Fichier 87_91: 395143302196776241
+      Fichier 87_92: -146115751510713482
+      Fichier 87_93: -2583171111369871166
+      Fichier 87_94: 3318249190294516113
+      Fichier 87_95: 5590339244037346357
+      Fichier 87_96: -1253318473366774714
+      Fichier 87_97: -1606019913656831340
+      Fichier 87_98: 6371832065231069629
+      Fichier 87_99: 8541516627100789729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
